@@ -1,0 +1,3 @@
+vSphere Security Certificates: https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.psc.doc/GUID-779A011D-B2DD-49BE-B0B9-6D73ECF99864.html
+How to use vSphere Certificate Manager to Replace SSL Certificates: https://knowledge.broadcom.com/external/article/318946/how-to-use-vsphere-certificate-manager-t.html
+Regenerate vSphere 6.x, 7.x, and 8.0 certificates using self-signed VMCA: https://knowledge.broadcom.com/external/article?legacyId=2112283
